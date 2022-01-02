@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dontese
+- 👋 Hi there! I’m Dontese
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python and a bit of SQL
 
