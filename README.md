@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BottomTxt
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Python and SQL
+- 👋 Hi, I’m Dontese
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python and a bit of SQL
 
 
 <!---
