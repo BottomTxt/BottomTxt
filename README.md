@@ -1,6 +1,6 @@
-- 👋 Hi there! I’m Dontese
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and a bit of SQL
+- 👋 Hi there! I’m Dontese :^)
+- 👀 I’m interested in Quantitative finance and Data Analytics
+- 🌱 I’m currently learning R and Java
 
 
 <!---
